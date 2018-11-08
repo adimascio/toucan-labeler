@@ -1,0 +1,22 @@
+{
+  "name": "toucan-labeler",
+  "version": "0.1.0",
+  "description": "Toucan Github labeler",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adimascio/toucan-labeler.git"
+  },
+  "keywords": [
+    "Github"
+  ],
+  "author": "Toucan Toco <toucan@toucantoco.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/adimascio/toucan-labeler/issues"
+  },
+  "homepage": "https://github.com/adimascio/toucan-labeler#readme"
+}
