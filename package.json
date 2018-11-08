@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/adimascio/toucan-labeler/issues"
   },
-  "homepage": "https://github.com/adimascio/toucan-labeler#readme"
+  "homepage": "https://github.com/adimascio/toucan-labeler#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "octonode": "^0.9.5"
+  }
 }
